@@ -1,0 +1,14 @@
+name: KimsPlugin
+main: com.deadelven.spigot.main
+version: 1.0
+api-version: 1.15
+commands:
+  spawnPig:
+    description: Spawn a pig to ride
+    usage: /spawnPig
+  spawnMobs:
+    description: Spawn Mobs To Attack Player
+    usage: /spawnMobs
+  setCalmness:
+    description: Set Calmness Value
+    usage: /setCalmness
